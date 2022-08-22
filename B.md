@@ -1,8 +1,18 @@
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nulla hendrerit orci elit, sit amet molestie lacus lacinia quis.
-Sed pellentesque lectus ultrices, auctor est sed, maximus nisl.
-Ut elit turpis, fermentum non urna sed, feugiat cursus velit.
+Aquí me pongo a cantar		
+al compás de la vigüela,		
+que el hombre que lo desvela		
+una pena estraordinaria,		
+como la ave solitaria	 
+con el cantar se consuela.		
+
+   Pido a los Santos del Cielo		
+que ayuden mi pensamiento,		
+les pido en este momento		
+que voy a cantar mi historia	 1
+me refresquen la memoria,		
+y aclaren mi entendimiento.
+
 
 # ⚠️⚠️ Este es el archivo de **B** ⚠️⚠️
